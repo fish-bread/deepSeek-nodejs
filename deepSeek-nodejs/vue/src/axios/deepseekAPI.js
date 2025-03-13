@@ -12,7 +12,7 @@ export const intoDeepSeek = async () => {
   console.log('Input text:', TextDeepSeek.value);
   newTitle.value = true;
 
-  const apiKey = 'sk-bb2f72a7a1664fd08f5441efa00e7448';
+  const apiKey = 'your_deepseek_api_key';
   const url = 'https://api.deepseek.com/v1/chat/completions';
 
   try {
