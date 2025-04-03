@@ -1,4 +1,4 @@
-# deepSeek-nodejs 禁止商用
+# deepSeek-nodejs
 一个尚未完工的用于使用个人deepseek-api对话的vue网页,可以进行上下文关联,能够区分不同的会话上下文,目前无法上传文件
 # 配置mongoDB和koa服务器
 通过配置koa服务器和配置mongoDB数据库可以做到不同用户存储不同会话历史
